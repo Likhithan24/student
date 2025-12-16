@@ -1,1 +1,2 @@
-hello goodmorning
+hello goodmornig
+bye 
